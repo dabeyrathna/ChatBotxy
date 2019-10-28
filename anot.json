@@ -1,0 +1,24 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+         "responses": ["Jigziii", "Jigzi jikaaa"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["Go and die, Bye", "Die", "Are u kidding me????"]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["What is that? why r u thanking?", "Die re die"]
+        },
+        {"tag": "Eating",
+         "patterns": ["Eat today?", "What u had today?", "Had lunch?"],
+         "responses": ["Nothing babyyyy", "Cereal"]
+        },
+		{"tag": "Know",
+         "patterns": ["Do you know?", "tell me if you know", "I dont know"],
+         "responses": ["I reallyyyyy dont know", "Nahi jaanthaaa"]
+        }		
+   ]
+}
